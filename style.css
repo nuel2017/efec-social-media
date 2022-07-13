@@ -1,0 +1,38 @@
+<!---footter ---->
+		<footer>
+			<p>Going Here</p>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua.</p>
+			<!---social media ---->
+			<div class=" wrapper">
+				<div class="icon facebook">
+					<div class="tooltip">facebook</div>
+					<span><i class="fa-brands fa-facebook-f"></i></span>
+				</div>
+				<div class="icon instagram">
+					<div class="tooltip">instagram</div>
+					<span><i class="ri-instagram-line"></i></span>
+				</div>
+				<div class="icon twiter">
+					<div class="tooltip">twitter</div>
+					<span><i class="fa-brands fa-twitter"></i></span>
+				</div>
+				<div class="icon whatshap">
+					<div class="tooltip">whatshap</div>
+					<span><i class="ri-whatsapp-line"></i></span>
+				</div>
+				
+			
+			</div>
+			<!---copyright ---->
+			<p class="copyright">copyright by Enzonuel Rumsowek</p>
+		</footer>
+
+		<!-----social bar--->
+		<div class=" a-social-b">
+				<a href=""><i class="ri-facebook-circle-fill"></i></a>
+				<a href=""><i class="ri-instagram-line"></i></a>
+				<a href=""><i class="ri-whatsapp-line"></i></a>
+				<a href=""><i class="ri-twitter-line"></i></a>
+			
+		</div>
